@@ -1,0 +1,21 @@
+{
+  "name": "remesh-domains-for-demos",
+  "version": "1.0.4",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -b",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "remesh": "^4.0.0",
+    "rxjs": "^7.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  },
+  "keywords": [],
+  "author": "yj_gu",
+  "license": "ISC"
+}
